@@ -6,15 +6,15 @@ This webapp is used for breast cancer disease prediction and recommends it, if t
 
 ### Input Image 1
 
-![Screenshot (11)](https://user-images.githubusercontent.com/74549015/133928521-d86228c3-9b32-4718-afba-d004ea0f5a59.png)
+<img width="1440" alt="Screenshot 2021-10-02 at 7 01 58 PM" src="https://user-images.githubusercontent.com/52387727/135718593-519a251c-3177-414c-969e-8f3157a50d44.png">
 
 ### Input Image 2
 
-![Screenshot (12)](https://user-images.githubusercontent.com/74549015/133928517-2b5ae8b2-aa53-4730-a6eb-c43f8662875c.png)
+<img width="1440" alt="Screenshot 2021-10-02 at 7 02 11 PM" src="https://user-images.githubusercontent.com/52387727/135718599-98c8c2b3-c2b7-420e-88cf-5e6429b53877.png">
 
 ### Output Image 1
 
-![Screenshot (13)](https://user-images.githubusercontent.com/74549015/133928520-a0ccd8dc-3341-41da-8759-53e907012269.png)
+<img width="1440" alt="Screenshot 2021-10-02 at 7 02 18 PM" src="https://user-images.githubusercontent.com/52387727/135718602-907ee993-8c41-453d-8d95-3ff597745244.png">
 
 ### Flowchart of METHODOLOGY
 
